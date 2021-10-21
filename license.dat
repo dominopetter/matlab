@@ -1,4 +1,5 @@
-SERVER netlm-server 0022489C6EEA 27000
+SERVER netlm-serverazure-q7x45dsrdjnxg.northeurope.cloudapp.azure.com
+ 0022489C6EEA 27000
 DAEMON MLM "C:\Program Files\MATLAB\R2021a\etc\win64\MLM.exe" port=27010
 # BEGIN--------------BEGIN--------------BEGIN
 # MathWorks license passcode file.
